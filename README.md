@@ -174,12 +174,7 @@ Mac                      1 min               ███████████�
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
-
-
-
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
+![Alt](https://repobeats.axiom.co/api/embed/3334975d7909cbe27713b7736198fa30719eda2c.svg "Repobeats analytics image")
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
