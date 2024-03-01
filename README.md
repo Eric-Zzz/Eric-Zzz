@@ -6,13 +6,11 @@
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Eric-Zzz&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Eric-Zzz&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eric-Zzz&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -35,16 +33,7 @@
 <div align="center" >
 
 
-<!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=Eric-Zzz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
 
 </div>
 
